@@ -1,0 +1,23 @@
+# Rasa related files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.egg-info/
+.eggs/
+actions/__pycache__/
+models/
+.rasa/
+
+# Virtual environment files
+venv/
+env/
+
+# Editor/IDE files
+.vscode/
+.idea/
+
+# Miscellaneous files
+.DS_Store
+*.log
+*.json
